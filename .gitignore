@@ -19,7 +19,7 @@
 *.tar.gz
 *.rar
 
-.gradle
+.gradle/
 /build/
 
 # IDEA config files
